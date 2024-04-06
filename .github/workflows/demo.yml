@@ -3,7 +3,7 @@
 # original file https://github.com/hashicorp/vagrant/blob/a8ce6783301cd0725514438f9f39c64f1d0cac18/.github/workflows/testing.yml
 
 name: Vagrant Ruby Tests
-on:
+on: 
   pull_request:
     branches:
       - main
